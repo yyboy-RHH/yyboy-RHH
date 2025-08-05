@@ -1,4 +1,4 @@
-## Hi Everyone 👋  
+## Hi Hi 👋  
 
 I'm RONG HSUAN, HSU ✨
 
@@ -22,36 +22,43 @@ Here are some ideas to get you started:
 - 💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
 - 🔭 Enthusiastic about solving and researching all kinds of computer-related problems.
-- 💡 Proficient in data analysis and visualization
+- 💡 Proficient in data analysis and visualization.
 
 ***
 
 ⚙️ Tech Stack & Tools  
 
-🎯Data Engineering  
+
+Data Engineering  
 - Big Data: Hadoop, Hive  
 - Data Pipelines: Airflow  
 - Messaging: Kafka
 
-🎯Languages 
+
+Languages 
  - Programming: Python
 
-🎯Databases  
+
+Databases  
  - Relational: MySQL, BigQuery
  - NoSQL: MongoDB
+
    
-🎯DevOps & Cloud  
+DevOps & Cloud  
  - DevOps Tools: Git
  - Containerization: Docker
  - Cloud Platforms: GCP
 
-🎯Data Analytics  
+
+Data Analytics  
  - Data Visualization Tools: Tableau, Power BI  
 
-🎯Database Design  
+
+Database Design  
  - Schema Design 、 Database Structure Design 、 Relational Design
 
-🎯Other data engineer skill  
+
+Other data engineer skill  
  - Data pipeline ( ETL workflow ) 、 Python Web Scraping 、 Python Data Processing
 
 
