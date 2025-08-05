@@ -26,7 +26,17 @@ Data Engineering
 - Data Pipelines: Airflow  
 - Messaging: Kafka
 
-Languages  語言
+Languages 
+ - Programming: Python
+
+Databases  
+ - Relational: MySQL, BigQuery
+ - NoSQL: MongoDB
+   
+DevOps & Cloud  
+ - DevOps Tools: Git
+ - Containerization: Docker
+ - Cloud Platforms: GCP
 
 
 
