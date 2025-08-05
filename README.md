@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🌟 Passionate about solving complex data challenges.
 
 ⚙️ Tech Stack & Tools
-Data Engineering
-Big Data: Hadoop, Hive,
+-Data Engineering
+-Big Data: Hadoop, Hive,
 -Data Pipelines: Airflow
 -Messaging: Kafka
 
