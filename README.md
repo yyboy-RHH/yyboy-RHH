@@ -45,6 +45,16 @@ Here are some ideas to get you started:
  - Containerization: Docker
  - Cloud Platforms: GCP
 
+🎯Data Analytics  
+ - Data Visualization Tools: Tableau, Power BI  
+
+🎯Database Design  
+ - Schema Design 、 Database Structure Design 、 Relational Design
+
+🎯Other data engineer skill  
+ - Data pipeline ( ETL workflow ) 、 Python Web Scraping 、 Python Data Processing
+
+
 ***
 
 ⚡ Fun Facts  
