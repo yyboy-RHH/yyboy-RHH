@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 👨‍💻 About Me 
-💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
-🌟 Passionate about solving complex data challenges.
+- 💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
+- 🌟 Passionate about solving complex data challenges.
