@@ -21,31 +21,35 @@ Here are some ideas to get you started:
 👨‍💻 About Me 
 - 💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
+- 🔭 Enthusiastic about solving and researching all kinds of computer-related problems.
+- 💡 Proficient in data analysis and visualization
 
 ***
 
 ⚙️ Tech Stack & Tools  
 
-🚀Data Engineering  
+🎯Data Engineering  
 - Big Data: Hadoop, Hive  
 - Data Pipelines: Airflow  
 - Messaging: Kafka
 
-🚀Languages 
+🎯Languages 
  - Programming: Python
 
-🚀Databases  
+🎯Databases  
  - Relational: MySQL, BigQuery
  - NoSQL: MongoDB
    
-🚀DevOps & Cloud  
+🎯DevOps & Cloud  
  - DevOps Tools: Git
  - Containerization: Docker
  - Cloud Platforms: GCP
 
+***
+
 ⚡ Fun Facts  
 
-🎯 Every everyday puzzle solved is another masterpiece created.
+🚀 Every everyday puzzle solved is another masterpiece created.  
 🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.
 
 ***
