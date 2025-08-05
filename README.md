@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋  
+
+I'm RONG HSUAN, HSU ✨
+
 
 <!--
 **yyboy-RHH/yyboy-RHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,24 +22,40 @@ Here are some ideas to get you started:
 - 💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
 
+***
+
 ⚙️ Tech Stack & Tools  
 
-Data Engineering  
+🚀Data Engineering  
 - Big Data: Hadoop, Hive  
 - Data Pipelines: Airflow  
 - Messaging: Kafka
 
-Languages 
+🚀Languages 
  - Programming: Python
 
-Databases  
+🚀Databases  
  - Relational: MySQL, BigQuery
  - NoSQL: MongoDB
    
-DevOps & Cloud  
+🚀DevOps & Cloud  
  - DevOps Tools: Git
  - Containerization: Docker
  - Cloud Platforms: GCP
 
+⚡ Fun Facts  
+
+🎯 Every everyday puzzle solved is another masterpiece created.
+🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.
+
+***
+
+📫 Contact Me  
+Feel free to reach out via email  
+famlitfriends@gmail.com
+
+***
+
+🤹 Crafted with ❤️ by yyboy-RHH
 
 
