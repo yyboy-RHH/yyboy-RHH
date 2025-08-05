@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi Everyone 👋  
 
 I'm RONG HSUAN, HSU ✨
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun Facts  
 
-🚀 Every everyday puzzle solved is another masterpiece created.  
+🚀 Every difficult puzzle solved is another masterpiece created.  
 🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.
 
 ***
