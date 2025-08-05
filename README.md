@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💼 I’m a Junior Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
 - 🔭 Enthusiastic about solving and researching all kinds of computer-related problems.
-- 💡 Proficient in data analysis and visualization.
+- 💡 Proficient in data analyses and visualization.
 
 ***
 
