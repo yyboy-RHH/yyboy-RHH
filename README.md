@@ -58,7 +58,7 @@ Database Design
  - Schema Design 、 Database Structure Design 、 Relational Design
 
 
-Other data engineer skill  
+Other data engineer skills  
  - Data pipeline ( ETL workflow ) 、 Python Web Scraping 、 Python Data Processing
 
 
