@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 👨‍💻 About Me 
 - 💼 I’m an Junior Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
+
+⚙️ Tech Stack & Tools
+Data Engineering
+Big Data: Hadoop, Hive,
+-Data Pipelines: Airflow
+-Messaging: Kafka
+
+Languages  語言
+
+
+
