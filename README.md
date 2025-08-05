@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ⚙️ Tech Stack & Tools  
 
 Data Engineering  
--Big Data: Hadoop, Hive  
--Data Pipelines: Airflow  
--Messaging: Kafka
+- Big Data: Hadoop, Hive  
+- Data Pipelines: Airflow  
+- Messaging: Kafka
 
 Languages  語言
 
