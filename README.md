@@ -67,7 +67,8 @@ Other data engineer skills
 ⚡ Fun Facts  
 
 🚀 Every difficult puzzle solved is another masterpiece created.  
-🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.
+🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.  
+😄 The Secret to Success: Keep faith in yourself, Stay joyful, Focus on the present, and Live each day with a smile.
 
 ***
 
