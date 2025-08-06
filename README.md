@@ -1,6 +1,6 @@
 ## Hi Hi 👋  
 
-I'm RONG HSUAN, HSU ✨
+I'm RONG HSUAN, HSU aka Robert, Hsu ✨
 
 
 <!--
