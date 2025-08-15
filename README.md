@@ -29,41 +29,49 @@ Here are some ideas to get you started:
 ⚙️ Tech Stack & Tools  
 
 
-Data Engineering  
+0️⃣Data Engineering  
 - Big Data: Hadoop, Hive  
 - Data Pipelines: Airflow  
 - Messaging: Kafka
 
 
-Languages 
+1️⃣Languages 
  - Programming: Python
 
 
-Databases  
+2️⃣Databases  
  - Relational: MySQL, BigQuery
  - NoSQL: MongoDB
 
    
-DevOps & Cloud  
+3️⃣DevOps & Cloud  
  - DevOps Tools: Git
  - Containerization: Docker
  - Cloud Platforms: GCP
 
 
-Data Analytics  
+4️⃣Data Analytics  
  - Data Visualization Tools: Tableau, Power BI  
 
 
-Database Design  
+5️⃣Database Design  
  - Schema Design, Database Structure Design, Relational Design
 
 
-Other data engineer skills  
+6️⃣Other data engineer skills  
  - Data pipeline ( ETL workflow ), Python Web Scraping, Python Data Processing
 
-Other data engineer tools  
+
+7️⃣Other data engineer tools  
  - dbdiagram.io, Figma
 
+
+8️⃣AI Tools  
+ - NotebookLM、Manus、Notion
+
+
+9️⃣Analysis and Monitoring System for Other Semiconductor Software  
+ - JPM 、 KLARITY 、 SPC(Statistic Process Control)
 
 ***
 
