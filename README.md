@@ -58,19 +58,19 @@ Here are some ideas to get you started:
  - Schema Design, Database Structure Design, Relational Design
 
 
-6️⃣Other data engineer skills  
+6️⃣Other Data Engineer Skills  
  - Data pipeline ( ETL workflow ), Python Web Scraping, Python Data Processing
 
 
-7️⃣Other data engineer tools  
+7️⃣Other Data Engineer Tools  
  - dbdiagram.io, Figma
 
 
 8️⃣AI Tools  
- - NotebookLM、Manus、Notion
+ - Manus、NotebookLM、Notion
 
 
-9️⃣Analysis and Monitoring System for Other Semiconductor Software  
+9️⃣Analysis and Monitoring System for Semiconductor related Software  
  - JPM 、 KLARITY 、 SPC( Statistic Process Control )
 
 ***
