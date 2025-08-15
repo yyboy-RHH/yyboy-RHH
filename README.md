@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 9️⃣Analysis and Monitoring System for Other Semiconductor Software  
- - JPM 、 KLARITY 、 SPC(Statistic Process Control)
+ - JPM 、 KLARITY 、 SPC( Statistic Process Control )
 
 ***
 
