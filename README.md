@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 
 
 8️⃣AI Tools  
- - Manus、NotebookLM、Notion
+ - Manus, NotebookLM, Notion
 
 
 9️⃣Analysis and Monitoring System for Semiconductor related Software  
- - JPM 、 KLARITY 、 SPC( Statistic Process Control )
+ - JPM, KLARITY, SPC ( Statistic Process Control )
 
 ***
 
