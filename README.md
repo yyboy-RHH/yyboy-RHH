@@ -83,8 +83,7 @@ Here are some ideas to get you started:
 
 ***
 
-📫 Contact Me  
-Feel free to reach out via email  
+📫 Contact Me - Feel free to reach out via email  
 🔹 famlitfriends@gmail.com
 
 ***
