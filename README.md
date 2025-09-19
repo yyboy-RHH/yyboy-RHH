@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 2️⃣Databases  
- - Relational: MySQL, BigQuery
+ - Relational: MySQL, SQLite, BigQuery
  - NoSQL: MongoDB
 
    
