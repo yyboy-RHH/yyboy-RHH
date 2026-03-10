@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 
 9️⃣AI Tools  
- - Manus, NotebookLM
+ - Gemini, ChatGPT, Claude, Grok, Manus, NotebookLM
 
 
 🔟Analysis and Monitoring System for Semiconductor-related Software  
- - JPM, KLARITY, SPC ( Statistic Process Control )
+ - JPM, KLARITY, SPC ( Statistic Process Control ), E3(FDC)  
 
 ***
 
