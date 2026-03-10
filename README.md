@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 7️⃣OS & Infrastructure  
  - Operating Systems: Linux  
- - Command Line: Bash, 
+ - Command Line: Bash, PowerShell, CMD
 
 
 8️⃣Other Data Engineer Tools  
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 9️⃣AI Tools  
- - Manus, NotebookLM, Notion
+ - Manus, NotebookLM
 
 
 🔟Analysis and Monitoring System for Semiconductor-related Software  
