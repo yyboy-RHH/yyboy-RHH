@@ -1,6 +1,6 @@
 ## Hi Hi 👋  
 
-I'm RONG HSUAN, HSU aka Ryder, Hsu ✨
+I'm RONG HSUAN, HSU aka Lukas, Hsu ✨
 
 
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💼 I’m a Data Engineer, designing and building scalable data pipelines. 
 - 🌟 Passionate about solving complex data challenges.
 - 🔭 Enthusiastic about solving and researching all kinds of computer-related problems.
-- 💡 Proficient in data analyses and visualization.
+- 💡 Proficient in data analysis and visualization.
 
 ***
 
@@ -61,16 +61,20 @@ Here are some ideas to get you started:
 6️⃣Other Data Engineer Skills  
  - Data pipeline ( ETL workflow ), Python Web Scraping, Python Data Processing
 
+7️⃣OS & Infrastructure  
+ - Operating Systems: Linux  
+ - Command Line: Bash, 
 
-7️⃣Other Data Engineer Tools  
+
+8️⃣Other Data Engineer Tools  
  - dbdiagram.io, Figma
 
 
-8️⃣AI Tools  
+9️⃣AI Tools  
  - Manus, NotebookLM, Notion
 
 
-9️⃣Analysis and Monitoring System for Semiconductor related Software  
+🔟Analysis and Monitoring System for Semiconductor-related Software  
  - JPM, KLARITY, SPC ( Statistic Process Control )
 
 ***
@@ -78,7 +82,7 @@ Here are some ideas to get you started:
 ⚡ Fun Facts  
 
 🚀 Every difficult puzzle solved is another masterpiece created.  
-🚴‍♂️ Cycling, Go Hiking, and Investment keep my ideas in motion.  
+🚴‍♂️ Cycling, going hiking, and Investment keep my ideas in motion.  
 😄 The Secret to Success: Keep faith in yourself, Stay joyful, Focus on the present, and Live each day with a smile.
 
 ***
